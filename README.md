@@ -4,7 +4,7 @@ Sign in with X describes how blockchain accounts can authenticate with off-chain
 
 ## Supported Networks
 
-SIWx currently supports three blockchain networks:
+SIWx currently supports the following blockchain networks:
 
 1. Ethereum (and by extension, all EIP-155 chains)
 2. Solana
